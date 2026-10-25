@@ -1,0 +1,47 @@
+# Visual Studio caches and per-user settings
+.vs/
+ipch/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+*.VC.opendb
+
+# Build output (solution and project directories)
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+Win32/
+[Bb]uild/
+[Oo]bj/
+
+# Compiler, linker, and build intermediates
+*.obj
+*.pch
+*.pdb
+*.idb
+*.ilk
+*.ipdb
+*.iobj
+*.exp
+*.exe
+*.res
+*.tlog
+*.lastbuildstate
+*.recipe
+*.log
+
+# Temporary files and operating-system metadata
+*.tmp
+*.bak
+*~
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Keep External/SFML headers and libraries, HonorProject runtime DLLs,
+# Config files, and Resources in version control. Do not ignore *.lib or *.dll.
